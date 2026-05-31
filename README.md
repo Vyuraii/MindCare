@@ -431,6 +431,7 @@ Model KNN MindCare menghasilkan output berupa:
 
 | Checklist | Keterangan | Status |
 |-----------|-----------|:------:|
+| **DS #1** — Mengumpulkan dan menganalisis permasalahan | Menentukan satu solusi utama | ✅ |
 | **DS #2** — Data Wrangling | Gathering → Assessing → Cleaning | ✅ |
 | **DS #3** — Business Questions | 6 BQ SMART sesuai project plan | ✅ |
 | **DS #4** — EDA | 7 visualisasi menjawab semua BQ | ✅ |
@@ -438,6 +439,7 @@ Model KNN MindCare menghasilkan output berupa:
 | **DS #6** — Streamlit Dashboard | 5 halaman interaktif | ✅ |
 | **DS #7** — Data Dictionary | 31 kolom terdokumentasi lengkap | ✅ |
 | **DS #8** — Feature Engineering | 6 fitur baru berbasis domain knowledge | ✅ |
+| **DS #9** — Deployment dashboard | Melakukan deployment ke Streamlit Cloud | ✅ |
 | **DS #10** — A/B Testing | Paired t-test 10-Fold CV | ✅ |
 
 ---
@@ -474,7 +476,7 @@ streamlit run app.py
 
 | Nama | ID | GitHub |
 |------|----|--------|
-| Iqbal Nurul Fadli | CDCC657D6Y0751 | `[tambahkan GitHub kamu]` |
+| Iqbal Nurul Fadli | CDCC657D6Y0751 | `Ikyuuu` |
 | Raihan Putra Permana | CDCC657D6Y2401 | `Vyuraii` |
 
 ---
