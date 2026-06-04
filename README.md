@@ -46,12 +46,13 @@
 
 | Resource | Link |
 |----------|------|
-| 📓 **Google Colab Notebook** | [https://colab.research.google.com/drive/1zT0Q9plJtXo0rD5B6Qp55p-uOY-upy_w?usp=sharing] |
-| 📊 **Streamlit Dashboard** | [https://dashboard-mindcare.streamlit.app/] |
+| 📓 **Google Colab Notebook** | https://colab.research.google.com/drive/1zT0Q9plJtXo0rD5B6Qp55p-uOY-upy_w?usp=sharing |
+| 📊 **Streamlit Dashboard** | https://dashboard-mindcare.streamlit.app/ |
 | 🗄️ **Dataset 1** — Student Stress Factors | [kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis) |
-| 🗄️ **Dataset 2** — Sleep Health & Lifestyle | [kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) |
+| 🗄️ **Dataset 2** — Sleep Health & Lifestyle | kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) |
 | 🗄️ **Dataset 3** — Student Mental Stress & Coping | [kaggle.com/datasets/salahuddinahmedshuvo/student-mental-stress-and-coping-mechanisms](https://www.kaggle.com/datasets/salahuddinahmedshuvo/student-mental-stress-and-coping-mechanisms) |
-| 📁 **GitHub Repository** | [https://github.com/Vyuraii/MindCare] |
+| 🗄️ **Dataset 4** — Student Mental Stress & Coping | https://drive.google.com/file/d/1Qss8beC-SA1PnSQj7sr-jBdBTHMNF1xV/view?usp=drive_link  |
+| 📁 **GitHub Repository** | https://github.com/Vyuraii/MindCare |
 
 ---
 
